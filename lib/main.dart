@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme
             .inversePrimary,
-        title: Text('Flutter中学校'),
+        title: Text('Flutter小学校'),
         bottom: PreferredSize(
             child: Container(
               height: 5, //高さ
